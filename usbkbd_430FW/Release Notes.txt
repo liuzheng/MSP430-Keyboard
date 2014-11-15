@@ -1,0 +1,34 @@
+***********************************************************
+
+Texas Instruments USBKBD_430
+USB Keyboard example for MSP430
+
+***********************************************************
+
+
+Release Notes:
+
+Version 1.0.0.0  - Dec 2011
+-> USBKBD Software 1.0.0.0: 
+	-> Initial release.
+	-> Example supporting MSP430F5510
+
+-> USB Stack 3.10
+
+-> MSP430 DriverLib 0.0.0.1
+
+----------------------------------------------------------------------------------------
+
+Version 1.0.1.0  - Feb 07 2014
+-> USBKBD Software 1.0.1.0: 
+	-> Updated to use new stack and DriverLib
+	-> Update IAR project (5.60)
+	-> Update CCS project (5.50)
+	-> All BSD
+
+-> USB Stack 4.0.2.0
+	-> BSD
+
+-> MSP430 DriverLib 1.60.02.01
+
+----------------------------------------------------------------------------------------
